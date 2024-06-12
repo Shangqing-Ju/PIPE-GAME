@@ -1,2 +1,3 @@
 Pipe is a single-player puzzle game where players place various pipe pieces in grid cells. The objective is for the player to connect the start pipe to the end pipe. The game play utilises simple mouse control.
+Run GUI.py to play this game.
 Read the PDF to get more details.
